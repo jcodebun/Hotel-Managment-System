@@ -35,7 +35,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 <script src="/HotelManagement/plugins/progressbar/progressbar.min.js"></script>
 <script src="/HotelManagement/plugins/colorbox/jquery.colorbox-min.js"></script>
 <script src="/HotelManagement/plugins/parallax-js-master/parallax.min.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=YourMapKey"></script>
 <script src="/HotelManagement/js/custom.js"></script>
 </body>
 </html>
